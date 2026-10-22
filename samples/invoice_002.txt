@@ -1,0 +1,16 @@
+INVOICE
+
+Invoice No: INV-2026-0107
+Date: 2026-09-30
+Due Date: 2026-10-30
+Vendor: Riverbend Equipment Rental
+Bill To: Acme Construction Co.
+Currency: USD
+
+Description Qty Unit Price Amount
+Excavator rental (per day) 5 320.00 1,600.00
+Delivery and pickup 1 150.00 150.00
+
+Subtotal: 1,750.00
+Tax (8%): 140.00
+Total: 1,890.00
