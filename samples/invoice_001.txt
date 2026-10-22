@@ -1,0 +1,17 @@
+INVOICE
+
+Invoice No: INV-2026-0042
+Date: 2026-09-14
+Due Date: 2026-10-14
+Vendor: Northwind Supplies Ltd
+Bill To: Acme Construction Co.
+Currency: USD
+
+Description | Qty | Unit Price | Amount
+Cement bags (50kg) | 100 | 8.50 | 850.00
+Steel rebar 12mm | 40 | 6.25 | 250.00
+Safety helmets | 10 | 15.00 | 150.00
+
+Subtotal: 1,250.00
+Tax (10%): 125.00
+Total: 1,375.00
